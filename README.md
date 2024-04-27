@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishek-Singh-05
+- 👋 Hi, I’m Abhishek Singh
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on App development and Artificial Intelligence
